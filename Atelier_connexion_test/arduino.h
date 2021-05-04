@@ -28,6 +28,7 @@ QString arduino_port_name;
 bool arduino_is_available;
 QByteArray data;
 QString serialBuffer;// contenant les données lues à partir d'Arduino
+
 };
 
 

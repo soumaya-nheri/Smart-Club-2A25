@@ -2,10 +2,10 @@
 #define CONNEXION_H
 
 
-class Connexion
+class connexion
 {
 public:
-    Connexion();
+    connexion();
 };
 
 #endif // CONNEXION_H

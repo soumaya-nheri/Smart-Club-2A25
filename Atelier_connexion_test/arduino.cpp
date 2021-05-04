@@ -98,7 +98,8 @@ int Arduino::write_to_arduino( QByteArray d)
 
 }
 void Arduino::updateLCD(const QString sensor_reading)
-{
-    ui->lcdNumber->display(sensor_reading);
+{//Ui::MainWindow uii;
+  //  uii.setupUi(this);
+   // uii.lcdNumber->display(sensor_reading);
 }
 
